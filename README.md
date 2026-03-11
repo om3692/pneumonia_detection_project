@@ -40,3 +40,5 @@ python evaluate.py
 
 Bash
 streamlit run app.py
+  screenshot of working 
+  <img width="2239" height="1200" alt="Screenshot 2026-03-11 083432" src="https://github.com/user-attachments/assets/5ca5417f-2914-44a1-a02e-df7aa1bc25fc" />
